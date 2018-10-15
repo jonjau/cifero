@@ -11,5 +11,5 @@ setup(
     description = 'A personal Python GUI program for phonetic transliteration/encryption',
     license='MIT',
     packages = find_packages(),
-    install_requires = ['PyQt5, pyperclip'],
+    install_requires = ['PyQt5', 'pyperclip'],
 )
