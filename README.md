@@ -5,6 +5,8 @@ A personal Python GUI program for phonetic transliteration.
 
 # Installation
 
+Binaries are in "releases".
+
 Locally, at the root directory:
 ```
 pip install .
