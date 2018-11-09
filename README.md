@@ -1,9 +1,11 @@
 # cifero
 
-A personal Python GUI program for phonetic transliteration.
+A personal Python GUI program for phonetic transliteration and syllable separation.
 
 
 # Installation
+
+Binaries are in "releases".
 
 Locally, at the root directory:
 ```
